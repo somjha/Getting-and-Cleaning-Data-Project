@@ -43,76 +43,76 @@ being measured.
 
 The output data is the mean of all the measuments (of each column) grouped by subject and activityname
 
-The following are the output columns
-  subject
-  activityname
-  activitynum
-  timebodyaccelerometermeanX
-timebodyaccelerometermeanY
-timebodyaccelerometermeanZ
-timegravityaccelerometermeanX
-timegravityaccelerometermeanY
-timegravityaccelerometermeanZ
-timebodyaccelerometerjerkmeanX
-timebodyaccelerometerjerkmeanY
-timebodyaccelerometerjerkmeanZ
-timebodygyroscopemeanX
-timebodygyroscopemeanY
-timebodygyroscopemeanZ
-timebodygyroscopejerkmeanX
-timebodygyroscopejerkmeanY
-timebodygyroscopejerkmeanZ
-timebodyaccelerometermagnitudemean
-timegravityaccelerometermagnitudemean
-timebodyaccelerometerjerkmagnitudemean
-timebodygyroscopemagnitudemean
-timebodygyroscopejerkmagnitudemean
-frequencybodyaccelerometermeanX
-frequencybodyaccelerometermeanY
-frequencybodyaccelerometermeanZ
-frequencybodyaccelerometerjerkmeanX
-frequencybodyaccelerometerjerkmeanY
-frequencybodyaccelerometerjerkmeanZ
-frequencybodygyroscopemeanX
-frequencybodygyroscopemeanY
-frequencybodygyroscopemeanZ
-frequencybodyaccelerometermagnitudemean
-frequencybodyaccelerometerjerkmagnitudemean
-frequencybodygyroscopemagnitudemean
-frequencybodygyroscopejerkmagnitudemean
-timebodyaccelerometersdX
-timebodyaccelerometersdY
-timebodyaccelerometersdZ
-timegravityaccelerometersdX
-timegravityaccelerometersdY
-timegravityaccelerometersdZ
-timebodyaccelerometerjerksdX
-timebodyaccelerometerjerksdY
-timebodyaccelerometerjerksdZ
-timebodygyroscopesdX
-timebodygyroscopesdY
-timebodygyroscopesdZ
-timebodygyroscopejerksdX
-timebodygyroscopejerksdY
-timebodygyroscopejerksdZ
-timebodyaccelerometermagnitudesd
-timegravityaccelerometermagnitudesd
-timebodyaccelerometerjerkmagnitudesd
-timebodygyroscopemagnitudesd
-timebodygyroscopejerkmagnitudesd
-frequencybodyaccelerometersdX
-frequencybodyaccelerometersdY
-frequencybodyaccelerometersdZ
-frequencybodyaccelerometerjerksdX
-frequencybodyaccelerometerjerksdY
-frequencybodyaccelerometerjerksdZ
-frequencybodygyroscopesdX
-frequencybodygyroscopesdY
-frequencybodygyroscopesdZ
-frequencybodyaccelerometermagnitudesd
-frequencybodyaccelerometerjerkmagnitudesd
-frequencybodygyroscopemagnitudesd
-frequencybodygyroscopejerkmagnitudesd
+The following are the output columns:
+* subject
+* activityname
+* activitynum
+* timebodyaccelerometermeanX
+* timebodyaccelerometermeanY
+* timebodyaccelerometermeanZ
+* timegravityaccelerometermeanX
+* timegravityaccelerometermeanY
+* timegravityaccelerometermeanZ
+* timebodyaccelerometerjerkmeanX
+* timebodyaccelerometerjerkmeanY
+* timebodyaccelerometerjerkmeanZ
+* timebodygyroscopemeanX
+* timebodygyroscopemeanY
+* timebodygyroscopemeanZ
+* timebodygyroscopejerkmeanX
+* timebodygyroscopejerkmeanY
+* timebodygyroscopejerkmeanZ
+* timebodyaccelerometermagnitudemean
+* timegravityaccelerometermagnitudemean
+* timebodyaccelerometerjerkmagnitudemean
+* timebodygyroscopemagnitudemean
+* timebodygyroscopejerkmagnitudemean
+* frequencybodyaccelerometermeanX
+* frequencybodyaccelerometermeanY
+* frequencybodyaccelerometermeanZ
+* frequencybodyaccelerometerjerkmeanX
+* frequencybodyaccelerometerjerkmeanY
+* frequencybodyaccelerometerjerkmeanZ
+* frequencybodygyroscopemeanX
+* frequencybodygyroscopemeanY
+* frequencybodygyroscopemeanZ
+* frequencybodyaccelerometermagnitudemean
+* frequencybodyaccelerometerjerkmagnitudemean
+* frequencybodygyroscopemagnitudemean
+* frequencybodygyroscopejerkmagnitudemean
+* timebodyaccelerometersdX
+* timebodyaccelerometersdY
+* timebodyaccelerometersdZ
+* timegravityaccelerometersdX
+* timegravityaccelerometersdY
+* timegravityaccelerometersdZ
+* timebodyaccelerometerjerksdX
+* timebodyaccelerometerjerksdY
+* timebodyaccelerometerjerksdZ
+* timebodygyroscopesdX
+* timebodygyroscopesdY
+* timebodygyroscopesdZ
+* timebodygyroscopejerksdX
+* timebodygyroscopejerksdY
+* timebodygyroscopejerksdZ
+* timebodyaccelerometermagnitudesd
+* timegravityaccelerometermagnitudesd
+* timebodyaccelerometerjerkmagnitudesd
+* timebodygyroscopemagnitudesd
+* timebodygyroscopejerkmagnitudesd
+* frequencybodyaccelerometersdX
+* frequencybodyaccelerometersdY
+* frequencybodyaccelerometersdZ
+* frequencybodyaccelerometerjerksdX
+* frequencybodyaccelerometerjerksdY
+* frequencybodyaccelerometerjerksdZ
+* frequencybodygyroscopesdX
+* frequencybodygyroscopesdY
+* frequencybodygyroscopesdZ
+* frequencybodyaccelerometermagnitudesd
+* frequencybodyaccelerometerjerkmagnitudesd
+* frequencybodygyroscopemagnitudesd
+* frequencybodygyroscopejerkmagnitudesd
 
 ## The transformation process
 
