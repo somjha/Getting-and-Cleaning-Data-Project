@@ -20,27 +20,34 @@ The activity_labels.txt mapped the activity number (in y) to a description.
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals timeaccelerometer-XYZ and 
 timegyroscope-XYZ. 
+
 These time domain signals were captured at a constant rate of 50 Hz. and the acceleration signal was then separated into body and 
 gravity acceleration signals (timebodyaccelerometer-XYZ and timegravityaccelerometer-XYZ) – both using a low pass Butterworth filter.
+
 The body linear acceleration and angular velocity were derived in time to obtain Jerk signals (timebodyaccelerometerjerk-XYZ and 
 timebodygyroscopejerk-XYZ). Also the magnitude of these three-dimensional signals were calculated using the Euclidean norm 
 (timebodyaccelerometermagnitude, timegravityaccelerometermagnitude, timebodyaccelerometerjerkmagnitude, timebodygyroscopemagnitude, 
 timebodygyroscopejerkmagnitude).
+
 A Fast Fourier Transform (FFT) was applied to some of these signals producing frequencybodyaccelerometer-XYZ, 
 frequencybodyaccelerometerjerk-XYZ, frequencybodygyroscope-XYZ, frequencybodyaccelerometerjerkmagnitude, 
 frequencybodygyroscopemagnitude, frequencybodygyroscopejerkmagnitude. 
+
 The units given are g’s for the accelerometer and rad/sec for the gyroscope and g/sec and rad/sec/sec for the corresponding jerks.
+
 Only the mean and standard deviation (sd) measurements were used for the output data
+
 The subject refers the the numeric value of the subject from whom the measurements were taken. The activitynum represents the numeric 
 value of the activity being measured and the activityname reprsents the decription (from the activity_labels.txt file) of the activity 
 being measured. 
 
 The output data is the mean of all the measuments (of each column) grouped by subject and activityname
 
-subject
-activityname
-activitynum
-timebodyaccelerometermeanX
+The following are the output columns
+  subject
+  activityname
+  activitynum
+  timebodyaccelerometermeanX
 timebodyaccelerometermeanY
 timebodyaccelerometermeanZ
 timegravityaccelerometermeanX
